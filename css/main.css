@@ -51,12 +51,12 @@ p {
 
   .content {
     position: absolute;
-    bottom: 1em;
-    right: 1em;
+    bottom: 1.5em;
+    right: 1.5em;
     background-color: rgba(0, 0, 0, .3);
     color: #fff;
     border-radius: 15px;
-    width: 60%;
+    max-width: 20em;
   }
 
   .wrapper {
@@ -71,7 +71,6 @@ p {
     line-height: 1.5;
     font-size: 120%;
   }
-
 
 }
 
