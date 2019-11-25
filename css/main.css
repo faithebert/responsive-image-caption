@@ -49,6 +49,19 @@ p {
     font-size: 110%;
   }
 
+  .content {
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    background-color: rgba(0, 0, 0, .3);
+    color: #fff;
+    border-radius: 15px;
+    width: 60%;
+  }
+
+  .wrapper {
+    position: relative;
+  }
 
 }
 
